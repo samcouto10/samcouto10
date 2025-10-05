@@ -1,16 +1,16 @@
-## Hi there 👋
+# echo "Hi, I'm Sam!"
 
-<!--
-**samcouto10/samcouto10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *DevOps and IT Infrastructure*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Analysis and systems development
+    - UNINTER | 2022-2024
+- 🧑🏻‍💻 Skills List:
+    - 🔍 Systems analysis and monitoring
+    - 🐧 Linux
+    - 🐚 Shell Scripting
+- 💬 Languages:
+    - Portuguese (native)
+    - English (advanced)
+    - Spanish (basic)
+- 📨 Contact:
+    - samuelcouto2003@outlook.com
