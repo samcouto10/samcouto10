@@ -22,7 +22,7 @@
 - 🇺🇸 English (advanced)
 - 🇪🇸 Spanish (basic)
 
-## 📨 **Contact:
+## 📨 **Contact**:
 
 <div>
   <a href="mailto:samuelcouto2003@outlook.com">
