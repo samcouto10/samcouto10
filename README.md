@@ -10,8 +10,8 @@
     - 🐚 Shell Scripting
 - 💬 Languages:
 <div style="display: inline_block">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+   <img align="center" alt="Sam-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+   <img align="center" alt="sam-Psh" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 </div>
     - Portuguese (native)
     - English (advanced)
